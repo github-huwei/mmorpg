@@ -8,7 +8,8 @@ using SkillBridge.Message;
 using ProtoBuf;
 using Managers;
 
-public class LoadingManager : MonoBehaviour {
+public class LoadingManager : MonoBehaviour
+{
 
     public GameObject UITips;
     public GameObject UILoading;
@@ -49,12 +50,14 @@ public class LoadingManager : MonoBehaviour {
         ChatService.Instance.Init();
         ShopManager.Instance.Init();
         SoundManager.Instance.PlayMusic(SoundDefine.Music_Login);
-       
+
         // Fake Loading Simulate
         for (float i = 50; i < 100;)
         {
             i += Random.Range(0.1f, 1.5f);
             progressBar.value = i;
+            progressNumber.text = Mathf.Ceil(progressBar.value) + "%";
+
             yield return new WaitForEndOfFrame();
         }
 
@@ -65,7 +68,8 @@ public class LoadingManager : MonoBehaviour {
 
 
     // Update is called once per frame
-    void Update () {
+    void Update()
+    {
 
     }
 }

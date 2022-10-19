@@ -7,3 +7,12 @@ D:\mmorpg\mmorpgwork\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInput
 D:\mmorpg\mmorpgwork\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
 D:\mmorpg\mmorpgwork\Src\Lib\Protocol\obj\Debug\Protocol.dll
 D:\mmorpg\mmorpgwork\Src\Lib\Protocol\obj\Debug\Protocol.pdb
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\bin\Debug\Protocol.dll
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\obj\Debug\Protocol.dll
+D:\UnityProject\mmorpgGit\Src\Lib\Protocol\obj\Debug\Protocol.pdb

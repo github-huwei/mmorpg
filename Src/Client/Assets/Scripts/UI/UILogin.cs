@@ -11,7 +11,6 @@ public class UILogin : MonoBehaviour {
 	
 	public InputField usernameLogin;
 	public InputField passwordLogin;
-	public GameObject uiRegister;
 	public Button ButtonLogin;
 	// Use this for initialization
 	void Start () {

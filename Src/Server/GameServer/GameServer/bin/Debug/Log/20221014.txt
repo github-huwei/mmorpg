@@ -1,0 +1,33 @@
+
+2022-10-14 11:57:04,654 [1] [INFO ] [GameServer] ：Game Server Init
+2022-10-14 11:57:35,109 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-10-14 11:57:57,885 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:布林镇
+2022-10-14 11:57:59,868 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:落日森林
+2022-10-14 11:58:01,473 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:野外2
+2022-10-14 11:58:02,865 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:落日空间
+2022-10-14 11:59:30,155 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-10-14 11:59:30,452 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:30,454 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:30,454 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:30,455 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:35,153 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:40,606 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:46,632 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:53,940 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-10-14 11:59:54,193 [1] [WARN ] [GameServer] ：NetService Started
+2022-10-14 12:00:55,731 [6] [INFO ] [GameServer] ：Map:2  Spawn:1 Mon:1001 Lv:1 At Point 1
+2022-10-14 12:00:56,011 [6] [INFO ] [GameServer] ：MonsterEnter: map2 monster1
+2022-10-14 12:00:56,022 [6] [INFO ] [GameServer] ：Map:2  Spawn:2 Mon:1002 Lv:1 At Point 2
+2022-10-14 12:00:56,138 [6] [INFO ] [GameServer] ：MonsterEnter: map2 monster2
+2022-10-14 12:00:56,143 [6] [INFO ] [GameServer] ：Map:2  Spawn:3 Mon:1003 Lv:1 At Point 3
+2022-10-14 12:00:56,154 [6] [INFO ] [GameServer] ：MonsterEnter: map2 monster3
+2022-10-14 12:00:56,161 [6] [INFO ] [GameServer] ：Map:2  Spawn:4 Mon:1005 Lv:1 At Point 4
+2022-10-14 12:00:56,170 [6] [INFO ] [GameServer] ：MonsterEnter: map2 monster4
+2022-10-14 12:00:56,172 [6] [INFO ] [GameServer] ：Map:3  Spawn:1 Mon:1001 Lv:1 At Point 1
+2022-10-14 12:00:56,173 [6] [INFO ] [GameServer] ：MonsterEnter: map3 monster5
+2022-10-14 12:00:56,174 [6] [INFO ] [GameServer] ：Map:3  Spawn:2 Mon:1002 Lv:1 At Point 2
+2022-10-14 12:00:56,178 [6] [INFO ] [GameServer] ：MonsterEnter: map3 monster6
+2022-10-14 12:00:56,179 [6] [INFO ] [GameServer] ：Map:3  Spawn:3 Mon:1003 Lv:1 At Point 3
+2022-10-14 12:00:56,185 [6] [INFO ] [GameServer] ：MonsterEnter: map3 monster7
+2022-10-14 12:00:56,222 [6] [INFO ] [GameServer] ：Map:3  Spawn:4 Mon:1005 Lv:1 At Point 4
+2022-10-14 12:00:56,228 [6] [INFO ] [GameServer] ：MonsterEnter: map3 monster8
