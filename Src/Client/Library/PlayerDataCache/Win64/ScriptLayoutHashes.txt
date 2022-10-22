@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/mmorpg/mmorpgwork/Src/Client/Bin/ExtremeWorld.exe
+D:/UnityProject/ExtremeWorld.exe
 SceneListBegin?
 Assets/Levels/loading.unity
 Assets/Levels/CharSelect.unity
@@ -131,7 +131,7 @@ fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networki
 2d19953285d027260a88777ecdaf7971 Assembly-CSharp.dll:.UIGuildMemberItem
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 1460b934ac976b3e8bf8582aa249a86c Assembly-CSharp.dll:.ShopTabView
-755ef23d9c5f1270e61898535ea29e1e Assembly-CSharp.dll:.UICharEquip
+6ba2e1f7efcab1eeb532c8f0e3e54492 Assembly-CSharp.dll:.UICharEquip
 20458b40819424758b8f5c36693ff9f9 Assembly-CSharp.dll:.UIQuestStatus
 5039bed0124830c984e43a363a9df5e1 Assembly-CSharp.dll:.UIEquipItem
 382b8ef512fa8d6108723a01b57af65b UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
@@ -183,10 +183,10 @@ fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networki
 7ca56e063bd071986fff4f513cc4f477 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 e73756a1829fedf5e469b08c871b9d74 Assembly-CSharp.dll:.UIMain
 72a8523b432c0a5317826b7a9e0a0e79 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
-2539454836ed274da1f6f9cf75f2ffca Assembly-CSharp.dll:.UILogin
+99d198671f8e58ac37cfefae20b2e69b Assembly-CSharp.dll:.UILogin
 e53cc67d84060d628c7f03fc725766d8 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 392c5b921098bd4c139d9146d0efa6d7 Unity.TextMeshPro.dll:TMPro.TMP_Settings
-5890b2e6803666d8b0b0e239bbb095ce Assembly-CSharp.dll:.UIPopCreate
+fc5d735705f43320b59262ec4be47d90 Assembly-CSharp.dll:.UIPopCreate
 9cb727d8176af3125bc9c804b29c411e Assembly-CSharp.dll:.TableView
 0828eb405dfdaf2a339ad5dc3d17d2d2 Assembly-CSharp.dll:.TableButton
 486cd95c82d8305219c352c06b776e1f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
@@ -222,6 +222,7 @@ a5c8a36b2588bb85aab6547e57c7d6bf Assembly-CSharp.dll:.UIShop
 5010f0501b349a5514f26d823d8f76cd Assembly-CSharp.dll:.UINameBar
 dcfb41bb8fd0ee54e4b6e54b5964bb9f Assembly-CSharp.dll:.UIChat
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
+1d40a7351caa28300d6dc186c5fdcebc Assembly-CSharp.dll:.UIBagItem
 78dedc5fca9f66dc33aa4880a29dcd98 Assembly-CSharp.dll:.NavPathRenderer
 10fb0e7889ad0d3a1b788416a7ffad57 Assembly-CSharp.dll:.UIApplyListItem
 2f9af06a78208a67db480e9bfed4a076 Unity.TextMeshPro.dll:TMPro.TextMeshPro
@@ -234,6 +235,7 @@ c67761199ae3d14f8d01f4f35054dcdf Assembly-CSharp.dll:.GameObjectManager
 f934c043df3ac5580d6717f001681bac Assembly-CSharp.dll:Candlelight.UI.HyperText
 99a276a48b3717ead332c3b717010b55 Assembly-CSharp.dll:.UIFriend
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.ListView
+a446fccd742db2c8342e3fb5ea2327f4 Assembly-CSharp.dll:.UIPopBag
 d0d89a4ae23d8768e8fd6154de0656db Assembly-CSharp.dll:.UISystemConfig
 510010a657bde55f21c44a71043d3439 Assembly-CSharp.dll:.SpawnPoint
 7e6d17ab24b0aa6e382ad37b1d27ac2f Assembly-CSharp.dll:.UIRideItem

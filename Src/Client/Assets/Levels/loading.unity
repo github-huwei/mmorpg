@@ -429,7 +429,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u9B54\u6CD5\u5927\u9646"
+  m_Text: "\u5251\u4E0E\u9B54\u6CD5"
 --- !u!222 &190241666
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1858,7 +1858,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5E7B\u60F3\u5927\u9646"
+  m_Text: "\u5251\u4E0E\u9B54\u6CD5"
 --- !u!222 &669653041
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3103,7 +3103,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   usernameLogin: {fileID: 1757705310}
   passwordLogin: {fileID: 1776145219}
-  uiRegister: {fileID: 0}
   ButtonLogin: {fileID: 874198489}
 --- !u!1 &1281914295
 GameObject:
